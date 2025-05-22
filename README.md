@@ -3,7 +3,7 @@ Hello, my name is Leandro Timoteo. I have a degree in Systems Analysis and Devel
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000080&center=true&random=false&width=435&lines=Welcome+to+my+profile!+🚀;Java+☕+Python+🐍+SQL+💾+JavaScript+⚡+PHP+🐘+HTML+📄+CSS+🎨+Oracle+🔵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&random=false&width=435&lines=Welcome+to+my+profile!+🚀;Java+☕+Python+🐍+SQL+💾+JavaScript+⚡+PHP+🐘+HTML+📄+CSS+🎨+Oracle+🔵)](https://git.io/typing-svg)
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
