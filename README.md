@@ -1,5 +1,5 @@
 # LEANDRO TIMOTEO  Systems Analyst 👽
-Hello, my name is Leandro Timoteo. I have a degree in Systems Analysis and Development. I work with the following programming languages: JAVA - PHP - SQL - JavaScript - PYTHON - ORACLE - BD - CLOUDE.IA - Information Security.
+Hello, my name is Leandro Timoteo. I have a degree in Systems Analysis and Development. I work with the following programming languages: JAVA - PHP - SQL - JavaScript - PYTHON - ORACLE - BD - CLOUD IA - Information Security.
 
 
 
@@ -40,9 +40,9 @@ Hello, my name is Leandro Timoteo. I have a degree in Systems Analysis and Devel
 </div>
 
 
-[![E-mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:leandrinhots6@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](leandrinhots6@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/leandrotimoteo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/leandro-timóteo-/)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=E4405F)](https://www.instagram.com/leandrinho_fi/)
 
