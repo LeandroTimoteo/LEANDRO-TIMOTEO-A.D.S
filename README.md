@@ -11,7 +11,7 @@ Hello, my name is Leandro Timoteo. I have a degree in Systems Analysis and Devel
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000080&center=true&random=false&width=600&lines=Java+☕+Python+🐍+SQL+💾+Oracle+🔵;Leandro+Timoteo+-+Systems+Analyst+🚀;JavaScript+⚡+PHP+🐘+HTML+📄+CSS+🎨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&random=false&width=600&lines=Java+☕+Python+🐍+SQL+💾+Oracle+🔵;Leandro+Timoteo+-+Systems+Analyst+🚀;JavaScript+⚡+PHP+🐘+HTML+📄+CSS+🎨)](https://git.io/typing-svg)
 <img align="center" alt="" src="./src/header-gif.gif">
 
 
@@ -48,7 +48,7 @@ Hello, my name is Leandro Timoteo. I have a degree in Systems Analysis and Devel
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=FFA500&center=true&random=false&width=600&lines=System+Initializing...;Loading+JAVA+☕;Loading+PYTHON+🐍;Loading+SQL+💾;Loading+Oracle+🔵;Connecting+to+Database+🖥️;Deploying+Code+🚀;Welcome+to+Leandro+Timoteo's+Profile!+💻✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=FFD700&center=true&random=false&width=600&lines=System+Initializing...;Loading+JAVA+☕;Loading+PYTHON+🐍;Loading+SQL+💾;Loading+Oracle+🔵;Connecting+to+Database+🖥️;Deploying+Code+🚀;Welcome+to+Leandro+Timoteo's+Profile!+💻✨)](https://git.io/typing-svg)
 
 
 
